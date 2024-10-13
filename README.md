@@ -1,6 +1,8 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Programming and frameworks: Python (Numpy, Pandas, Seaborn, Matplotlib), Scikitlearn, Pytorch, Tensorflow, OpenCV, Java, R
+#### Data Analysis and techniques: Exploratory Data Analysis, Time Series Forecasting, Predictive Analytics, PowerBI, Tableau
+#### Database and deployment tools: SQL, MongoDB, PySpark, Git, Docker, AWS (EC2, ELB, ASG, RDS, ElastiCache, S3), Linux, MySQL
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
