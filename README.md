@@ -9,14 +9,17 @@
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist Intern @ G3 Innovations (_May 2024 - August 2024_)**
+- Developed machine learning models for revenue forecasting with 85% accuracy, focusing on feature engineering, hyperparameter tuning, and collaboration with data engineering teams to support financial planning.
+- Created 5 interactive dashboards using Tableau and Power BI, enhancing decision-making efficiency by 20% for clients.
+- Engineered features for 10+ datasets with over 1 million rows each, reducing data inconsistencies by 30%.
+- Proposed and implemented 3 strategies, increasing client revenue by 15% and reducing utility costs by 10%, resulting in annual savings of $50,000.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Assistant @ Amrita Vishwa Vidyapeetham (Funded by IBM) (_June 2022 – May 2023_)**
+- Improved classification accuracy by 10% through the implementation of XGBoost and Artificial Neural Networks (ANN).
+- Experimented with activation functions (ReLU, Sigmoid, Tanh), finding ReLU increased ANN accuracy by 5%.
+- Led a team in optimizing ANN performance by adjusting hidden layers and neurons, achieving a 7% accuracy gain.
+- Spearheaded a comparative study between KNN and Decision Trees, achieving 25% efficiency gains with KNN on small datasets, and applied findings to enhance data handling strategies.
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
