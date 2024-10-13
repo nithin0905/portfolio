@@ -5,7 +5,7 @@
 #### Database and deployment tools: SQL, MongoDB, PySpark, Git, Docker, AWS (EC2, ELB, ASG, RDS, ElastiCache, S3), Linux, MySQL
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
+- Masters in Data Science | Northeastern University (_Sep 2023_-_May 2025_)								       		
 - M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
 - B.S., Physics | The University of Texas at Dallas (_May 2017_)
 
