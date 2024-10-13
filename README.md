@@ -5,9 +5,8 @@
 #### Database and deployment tools: SQL, MongoDB, PySpark, Git, Docker, AWS (EC2, ELB, ASG, RDS, ElastiCache, S3), Linux, MySQL
 
 ## Education
-- Masters in Data Science | Northeastern University (_Sep 2023_-_May 2025_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Data Science | Northeastern University (_Sep 2023_-_May 2025_)								       		
+- Btech., Computer Science	| Amrita Vishwa Vidyapeetham (_Jun 2019_-_May 2023_)	 			        		
 
 **Data Scientist Intern @ G3 Innovations (_May 2024 - August 2024_)**
 - Developed machine learning models for revenue forecasting with 85% accuracy, focusing on feature engineering, hyperparameter tuning, and collaboration with data engineering teams to support financial planning.
@@ -22,16 +21,27 @@
 - Spearheaded a comparative study between KNN and Decision Trees, achieving 25% efficiency gains with KNN on small datasets, and applied findings to enhance data handling strategies.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### FIFA World Cup’22 Analytics | [Tableau](https://public.tableau.com/app/profile/nithin.velpula/viz/Fifa_Analysis_17081264694030/AttackeDashboard?publish=yes)
+- Applied web scraping to gather data from 10+ online sources related to FIFA, compiling a dataset of 100 players.
+- Analyzed player performance and team statistics, delivering 10 actionable insights to deepen understanding of key trends.
 
+### Fine-tuning LLaMa-2 for Medical Term Analysis
+- Fine-tuned LLaMa-2 on 500k+ medical term entries using LoRA and 4-bit quantization, reducing memory usage by 60% and improving model efficiency.
+- Optimized learning with cosine scheduling and a 2e-4 learning rate across 10 epochs.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Uber Data Analysis and Visualization | [Google Looker](https://lookerstudio.google.com/u/0/reporting/c1a9b517-a69a-4be9-a6bb-ee99c49bce2a/page/kZVqD)
+- Extracted data from 4 web sources related to Uber operations, creating a comprehensive dataset of 100,000 records.
+- Deployed CSV files on Google Cloud Console using Mage AI, reducing processing time by 30%.
+- Executed SQL queries on BigQuery, deriving actionable insights to improve decision-making.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+### Delivery Cube - Cutting-Edge Food Ordering Platform
+- Developed stored procedures for managing store operations, retrieving customer details, and calculating offer validity.
+- Coordinated with team members to optimize database performance, enhancing store management efficiency.
+
+### Multi-Class Text Classification
+- Performed text classification on a dataset of 128,956 user credit card/account queries using **PyTorch** and transformers.
+- Structured text into 128-length vectors and fine-tuned the DistilBERT transformer, achieving an F1 score of 0.93 on validation data.
 
 
 ## Talks & Lectures
