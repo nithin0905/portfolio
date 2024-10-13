@@ -32,7 +32,7 @@
 - Optimized learning with **cosine scheduling** and a **2e-4 learning rate** across **10 epochs**.
 
 ### Uber Data Analysis and Visualization | [Google Looker](https://lookerstudio.google.com/u/0/reporting/c1a9b517-a69a-4be9-a6bb-ee99c49bce2a/page/kZVqD)
-![Uber Analysis](/assets/looker.png)
+![Uber Analysis](/assets/uber_nyc.png)
 - Extracted data from 4 **web sources** related to Uber operations, creating a comprehensive dataset of 100,000 records.
 - Deployed **CSV files** on **Google Cloud Console** using **Mage AI**, reducing processing time by 30%.
 - Executed **SQL queries** on **BigQuery**, deriving actionable insights to improve decision-making.
