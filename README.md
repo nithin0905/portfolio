@@ -46,5 +46,5 @@
 
 
 ## Research Publications
-1. Anomaly Detection in Fraudulent Transaction Using Neural Networks [Acceptance](https://drive.google.com/file/d/1YZTvU5bPzOqqmxNPo50cOZe2pSZtOTSa/view)
-2. Malware Detection Using Neural Networks and Machine Learning Techniques [Acceptance](https://drive.google.com/file/d/1LC9XZrGDxV5A0zTvAkSM9kvfVW0xkCEM/view)
+1. Anomaly Detection in Fraudulent Transaction Using Neural Networks | [Acceptance](https://drive.google.com/file/d/1YZTvU5bPzOqqmxNPo50cOZe2pSZtOTSa/view)
+2. Malware Detection Using Neural Networks and Machine Learning Techniques | [Acceptance](https://drive.google.com/file/d/1LC9XZrGDxV5A0zTvAkSM9kvfVW0xkCEM/view)
