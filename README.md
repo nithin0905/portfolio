@@ -9,14 +9,14 @@
 - Btech., Computer Science	| Amrita Vishwa Vidyapeetham (_Jun 2019_-_May 2023_)	 			        		
 
 **Data Scientist Intern @ G3 Innovations (_May 2024 - August 2024_)**
-- Developed machine learning models for revenue forecasting with 85% accuracy, focusing on feature engineering, hyperparameter tuning, and collaboration with data engineering teams to support financial planning.
-- Created 5 interactive dashboards using Tableau and Power BI, enhancing decision-making efficiency by 20% for clients.
+- Developed machine learning models for revenue forecasting with R-squared score of 0.85, focusing on feature engineering, hyperparameter tuning, and collaboration with data engineering teams to support financial planning.
+- Created 5 interactive dashboards using Tableau and Power BI, enhancing decision-making efficiency for clients.
 - Engineered features for 10+ datasets with over 1 million rows each, reducing data inconsistencies by 30%.
-- Proposed and implemented 3 strategies, increasing client revenue by 15% and reducing utility costs by 10%, resulting in annual savings of $50,000.
+- Proposed and implemented 3 strategies, increasing client revenue by 5% and reducing utility costs by 10%, resulting in annual savings of $50,000.
 
 **Research Assistant @ Amrita Vishwa Vidyapeetham (Funded by IBM) (_June 2022 – May 2023_)**
-- Improved classification accuracy by 10% through the implementation of XGBoost and Artificial Neural Networks (ANN).
-- Experimented with activation functions (ReLU, Sigmoid, Tanh), finding ReLU increased ANN accuracy by 5%.
+- Implemented classifiers, leveraging XGBoost and ANN to improve F1 score by 10% over traditional methods.
+- Experimented with activation functions (ReLU, Sigmoid, Tanh), and found ReLU increased ANN model's precision by 5%.
 - Led a team in optimizing ANN performance by adjusting hidden layers and neurons, achieving a 7% accuracy gain.
 - Spearheaded a comparative study between KNN and Decision Trees, achieving 25% efficiency gains with KNN on small datasets, and applied findings to enhance data handling strategies.
 
