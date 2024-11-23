@@ -14,6 +14,7 @@
 - Identified and handled outliers from raw data by extracting and visualizing data distributions and statistical measures, employing Z-score and IQR tests, which increased data quality by 12%. 
 - Created 5 interactive dashboards with Tableau and Power BI, boosting decision-making efficiency for clients. 
 - Developed machine learning models for revenue forecasting with R-squared score of 0.85, focusing on feature engineering, hyperparameter tuning, and collaboration with data engineering teams to support financial planning.
+  
 **Research Assistant @ Amrita Vishwa Vidyapeetham (Funded by IBM) (_June 2022 – May 2023_)**
 - Implemented classifiers, leveraging XGBoost and ANN to improve F1 score by 10% over traditional methods.
 - Experimented with activation functions (ReLU, Sigmoid, Tanh), and found ReLU increased ANN model's precision by 5%.
