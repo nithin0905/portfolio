@@ -9,11 +9,11 @@
 - Btech., Computer Science	| Amrita Vishwa Vidyapeetham (_Jun 2019_-_May 2023_)	 			        		
 
 **Data Scientist Intern @ G3 Innovations (_May 2024 - August 2024_)**
-- Developed machine learning models for revenue forecasting with R-squared score of 0.85, focusing on feature engineering, hyperparameter tuning, and collaboration with data engineering teams to support financial planning.
-- Created 5 interactive dashboards using Tableau and Power BI, enhancing decision-making efficiency for clients.
-- Engineered features for 10+ datasets with over 1 million rows each, reducing data inconsistencies by 30%.
-- Proposed and implemented 3 strategies, increasing client revenue by 5% and reducing utility costs by 10%, resulting in annual savings of $50,000.
-
+- Performed extensive Exploratory Data Analysis and Data Wrangling on large datasets from multiple sources (over 2 million rows) using Python to analyze patterns and trends. 
+- Engineered features for 10+ datasets (1 million+ rows each), achieving a 30% reduction in data inconsistencies. 
+- Identified and handled outliers from raw data by extracting and visualizing data distributions and statistical measures, employing Z-score and IQR tests, which increased data quality by 12%. 
+- Created 5 interactive dashboards with Tableau and Power BI, boosting decision-making efficiency for clients. 
+- Developed machine learning models for revenue forecasting with R-squared score of 0.85, focusing on feature engineering, hyperparameter tuning, and collaboration with data engineering teams to support financial planning. 
 **Research Assistant @ Amrita Vishwa Vidyapeetham (Funded by IBM) (_June 2022 – May 2023_)**
 - Implemented classifiers, leveraging XGBoost and ANN to improve F1 score by 10% over traditional methods.
 - Experimented with activation functions (ReLU, Sigmoid, Tanh), and found ReLU increased ANN model's precision by 5%.
