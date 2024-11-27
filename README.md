@@ -50,8 +50,9 @@
 
 ## Research Publications
 
+### Malware Detection Using Neural Networks and Machine Learning Techniques | [Acceptance Link](https://ieeexplore.ieee.org/document/10724039)
+- Research leveraging neural networks and machine learning techniques for detecting malware. 
+
 ### Anomaly Detection in Fraudulent Transaction Using Neural Networks | [Acceptance Link](https://drive.google.com/file/d/1YZTvU5bPzOqqmxNPo50cOZe2pSZtOTSa/view)
 - Research focused on detecting anomalies in fraudulent transactions using neural networks.
 
-### Malware Detection Using Neural Networks and Machine Learning Techniques | [Acceptance Link](https://drive.google.com/file/d/1LC9XZrGDxV5A0zTvAkSM9kvfVW0xkCEM/view)
-- Research leveraging neural networks and machine learning techniques for detecting malware. 
